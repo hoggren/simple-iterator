@@ -1,0 +1,28 @@
+{
+  "name": "simple-iterator",
+  "version": "0.0.1",
+  "description": "Iterates over an array and sets scope to the current item, and index as parameter. Returns null if it isn't an array.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phoggren/simple-iterator.git"
+  },
+  "keywords": [
+    "iterate",
+    "iterator",
+    "simple-iterator",
+    "foreach",
+    "for",
+    "index",
+    "collection"
+  ],
+  "author": "Patrik Höggren",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phoggren/simple-iterator/issues"
+  },
+  "homepage": "https://github.com/phoggren/simple-iterator#readme"
+}
