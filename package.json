@@ -1,6 +1,6 @@
 {
   "name": "simple-iterator",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Iterates over an array and sets scope to the current item, and index as parameter. Returns null if it isn't an array.",
   "main": "index.js",
   "scripts": {
